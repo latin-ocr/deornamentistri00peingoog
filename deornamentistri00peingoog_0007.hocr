@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deornamentistri00peingoog_0007.png"; bbox 0 0 2984 4852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 2739 1038 2963">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 2739 1038 2963">
+     <span class='ocr_line' id='line_1_1' title="bbox 630 2739 1038 2791; baseline 0.007 -3"><span class='ocrx_word' id='word_1_1' title='bbox 630 2739 858 2788; x_wconf 67' lang='lat' dir='ltr'>HAVERFffiLo</span> <span class='ocrx_word' id='word_1_2' title='bbox 888 2741 1038 2791; x_wconf 58' lang='lat' dir='ltr'>[ms-:ARV</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 629 2823 1038 2884; baseline 0.012 -10"><span class='ocrx_word' id='word_1_3' title='bbox 629 2823 676 2874; x_wconf 76' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_4' title='bbox 703 2825 862 2876; x_wconf 75' lang='grc' dir='ltr'>ΑΝΟΙΕΝΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 884 2828 1038 2884; x_wconf 64' lang='lat' dir='ltr'>mamm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 762 2913 912 2963; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 762 2913 912 2963; x_wconf 77' lang='lat' dir='ltr'>OXFORD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 345 4204 1261 4245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 345 4204 1261 4245">
+     <span class='ocr_line' id='line_1_4' title="bbox 345 4204 1261 4245; baseline -0.01 -2"><span class='ocrx_word' id='word_1_7' title='bbox 345 4213 423 4243; x_wconf 74' lang='lat' dir='ltr'>Berllner</span> <span class='ocrx_word' id='word_1_8' title='bbox 433 4211 573 4245; x_wconf 75' lang='lat' dir='ltr'>Buchdruekerel,</span> <span class='ocrx_word' id='word_1_9' title='bbox 585 4211 772 4242; x_wconf 65' lang='lat' dir='ltr'>Aetion-Genellnehnft.</span> <span class='ocrx_word' id='word_1_10' title='bbox 783 4209 949 4239; x_wconf 54' lang='lat' dir='ltr'>Smnerinnennehule</span> <span class='ocrx_word' id='word_1_11' title='bbox 959 4210 988 4237; x_wconf 73' lang='lat' dir='ltr'>ue·</span> <span class='ocrx_word' id='word_1_12' title='bbox 998 4206 1126 4236; x_wconf 64' lang='lat' dir='ltr'>Leno-verena</span> <span class='ocrx_word' id='word_1_13' title='bbox 1138 4204 1183 4240; x_wconf 79' lang='lat' dir='ltr'>(eurl</span> <span class='ocrx_word' id='word_1_14' title='bbox 1194 4204 1261 4238; x_wconf 69' lang='lat' dir='ltr'>Jnnke).</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1496 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1496 4852">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1496 4852; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1496 4852; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
